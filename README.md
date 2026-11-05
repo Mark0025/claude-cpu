@@ -6,15 +6,6 @@
 - **Status:** inactive since 2024-10
 - **Source:** agent research 2026-11-04
 
-> Let Claude 3.5 Sonnet NEW operate your terminal and edit your files for you.
-> 
-> Proof of concept. 
-> Fork and start building your next Gen Developer Tools.
->
-> 🚀 Watch the walk through [video here](https://youtu.be/FxwA0DLxyrw).
-
-<img src="./images/computer-use-thumb.png" alt="anthropic-computer-use" style="max-width: 800px;">
-
 ## 📌 Interesting notes
 > **Big takeaway: The AI Agents are coming** and for you and I, the engineer, **they're already here**.
 
