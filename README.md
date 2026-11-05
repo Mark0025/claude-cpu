@@ -1,4 +1,11 @@
 # Anthropic Computer Use POC -> Bash and Text Tools
+
+## About
+- **What it is:** A copy of someone else's demo that lets Claude operate a terminal and edit files; Mark made no changes to it.
+- **Business:** learning
+- **Status:** inactive since 2024-10
+- **Source:** agent research 2026-11-04
+
 > Let Claude 3.5 Sonnet NEW operate your terminal and edit your files for you.
 > 
 > Proof of concept. 
